@@ -1,5 +1,5 @@
-name: Docker Image CI
-
+name:  CI Pipeline
+# Docker Image
 on:
   push:
     branches: [ "main" ]
